@@ -8,7 +8,7 @@ Follow the procedures listed below.
 2. Run the "main.py" script.
 
 Prerequisites:
->python
->mySQL
->python libraries:
-    >mysql
+python
+mySQL
+python libraries:
+    mysql
